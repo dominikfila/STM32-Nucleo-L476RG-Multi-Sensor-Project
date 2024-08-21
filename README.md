@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a multi-sensor application developed on STM32 Nucleo-L476RG microcontroller with KA-Nucleo-Multisensor shield. The project involves communicating with a temperature sensor via 1-Wire protocol and a pressure sensor via I2C protocol, and using an ADC to measure the voltage drop across a photoresistor. The measured values are displayed on 8-segment displays.
+This project presents a multi-sensor application developed on STM32 Nucleo-L476RG microcontroller with KA-Nucleo-Multisensor shield. The project involves communicating with a temperature sensor via 1-Wire protocol and a pressure sensor via I2C protocol, and using an ADC to measure the voltage drop across a photoresistor. The measured values are displayed on 7-segment displays.
 
 ## Features
 - Possibility to switch between modes with buttons equipped with software debouncing
