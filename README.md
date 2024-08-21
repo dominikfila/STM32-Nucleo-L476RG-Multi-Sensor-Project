@@ -19,16 +19,16 @@ This project presents a multi-sensor application developed on STM32 Nucleo-L476R
 - *Pressure and temperature measurement via I2C*:
   - Uses LPS25HB pressure sensor.
   - I2C communication is established to read pressure and temperature.
-  - Converts the pressure difference from the reference value to the altitude change
+  - Converts the pressure difference from the reference value to the altitude change.
   - Displays altitude difference and temperature on a 7-segment display.
 
 - *Light intensity measurement with ADC*:
-  - Uses a photoresistor
-  - ADC is used to read the voltage on the photoresistor
+  - Uses a photoresistor.
+  - ADC is used to read the voltage on the photoresistor.
   - Displays temperature on a 7-segment display.
 
 - *Libraries*:
-  - The project uses libraries provided by Forbot.co.uk for 1-Wire and I2C communication.
+  - The project uses libraries provided by Forbot.pl for 1-Wire and I2C communication.
   - The library for the 7-segment display is the author's.
 
 ## Hardware requirements
