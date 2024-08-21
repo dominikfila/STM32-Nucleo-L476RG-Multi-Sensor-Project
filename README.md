@@ -40,4 +40,3 @@ This project presents a multi-sensor application developed on STM32 Nucleo-L476R
 - *Photoresistor*.
 - *4x 7-segment display module*.
 
-Translated with DeepL.com (free version)
