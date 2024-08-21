@@ -35,8 +35,8 @@ This project presents a multi-sensor application developed on STM32 Nucleo-L476R
 
 - *STM32 Nucleo-L476RG*.
 - *KA-Nucleo-Multisensor Shield*.
-- *DS18B20 temperature sensor.
-- *LPS25HB pressure sensor.
+- *DS18B20 temperature sensor*.
+- *LPS25HB pressure sensor*.
 - *Photoresistor*.
 - *4x 7-segment display module*.
 
